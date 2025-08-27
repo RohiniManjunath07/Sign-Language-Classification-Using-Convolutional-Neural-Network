@@ -9,7 +9,7 @@ The goal is to accurately classify hand gestures into their corresponding letter
 ## 📊 Dataset
 - **Source:** [Sign Language MNIST Dataset](https://www.kaggle.com/datamunge/sign-language-mnist)
 - **Training Data:** `sign_mnist_train.csv`  
-- **Testing Data:** `sign_mnist_test.csv`  
+- **Testing Data:** `sign_mnist_test.csv` 
 - **Images:** 28x28 grayscale hand signs for 26 English alphabets.  
 
 ---
